@@ -1,0 +1,6 @@
+{
+  "name": "PMCIS — Portable Multimodal Chemical Identification System",
+  "description": "An integrated low-cost electrochemical, thermal, and optical sensing platform solving global liquid fertilizer misidentification, adulteration, and single-parameter analytical ambiguity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
